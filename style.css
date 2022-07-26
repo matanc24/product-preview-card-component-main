@@ -42,7 +42,7 @@ p {
   width: 300px;
   grid-row: 2 / 3;
   grid-column: 2/3;
-  background-image: url(/images/image-product-desktop.jpg);
+  background-image: url(./images/image-product-desktop.jpg);
   background-size: cover;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
@@ -128,7 +128,7 @@ p {
     grid-column: 1;
   }
   .left {
-    background-image: url(/images/image-product-mobile.jpg);
+    background-image: url(./images/image-product-mobile.jpg);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     width: 100%;
